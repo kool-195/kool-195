@@ -2,8 +2,5 @@
 - 🌱 I’m currently learning new technologies on the internet
 - 👯 I’m looking to collaborate on live projects
 - 🤔 I’m looking for help with kits and kins in a productive way
-- 💬 Ask me about stars and the galaxy
 - 📫 How to reach me: mail me at muralikrishna8496@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm shy at first but if i get close you will be my best friend
--->
+-->Currently building new projects on ReactJS & Spring boot using GIT 
