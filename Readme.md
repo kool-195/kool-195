@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murali Krisha Kethavath</h1>
+<h1 align="center">Hi 👋, I'm Murali Krishna Kethavath</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kool-195&label=Profile%20views&color=0e75b6&style=flat" alt="kool-195" /> </p>
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **kith and kin in a productive way**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React and BlockChain**
 
 - 📫 How to reach me **muralikrishna8496@gmail.com**
 
-- ⚡ Fun fact **I am a big fan of traveling**
+- ⚡ Fun fact **I am adventurous and a big fan of traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
