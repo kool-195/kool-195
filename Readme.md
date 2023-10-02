@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/muralikrishnna2" target="blank"><img src="https://img.shields.io/twitter/follow/muralikrishnna2?logo=twitter&style=for-the-badge" alt="muralikrishnna2" /></a> </p>
 
-- 🔭 I’m currently working on **getting a full-time opportunity**
+- 🔭 I’m currently working on **Upskilling my technical skillset**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **How Generative AI works**
 
 - 👯 I’m looking to collaborate on **live projects**
 
-- 🤝 I’m looking for help with **kith and kin in a productive way**
-
-- 💬 Ask me about **React and BlockChain**
+- 🤝 I’m looking for help with **kith and kins in a productive way**
 
 - 📫 How to reach me **muralikrishna8496@gmail.com**
 
