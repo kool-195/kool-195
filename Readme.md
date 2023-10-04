@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/muralikrishnna2" target="blank"><img src="https://img.shields.io/twitter/follow/muralikrishnna2?logo=twitter&style=for-the-badge" alt="muralikrishnna2" /></a> </p>
 
-- 🔭 I’m currently working on **Upskilling my technical skillset**
-
 - 👯 I’m looking to collaborate on **live projects**
 
 - 🤝 I’m looking for help with **kith and kins in a productive way**
