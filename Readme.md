@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Upskilling my technical skillset**
 
-- 🌱 I’m currently learning **How Generative AI works**
-
 - 👯 I’m looking to collaborate on **live projects**
 
 - 🤝 I’m looking for help with **kith and kins in a productive way**
