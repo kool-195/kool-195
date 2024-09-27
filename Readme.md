@@ -10,7 +10,7 @@ Passionate about translating business requirements into optimized technical solu
 * ✉️  You can contact me at [muralikethavath08@gmail.com](mailto:muralikethavath08@gmail.com)
 * 🧠  I'm learning Generative AI
 * 🤝  I'm open to collaborating on creating AI Bots!
-* ⚡  I am an avid photographer
+* ⚡  I am a candid photographer
 
 ### Skills
 
